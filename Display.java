@@ -1,7 +1,3 @@
-/* This gives a graphics window for Assignment 4 in COMP 1020 (Winter 2019).
- * The student must supply the SpaceInvaders class
- */
-
 import javax.swing.*; //Needed for windows
 import java.awt.*;    //Needed for graphics
 import java.awt.event.*; //Needed for the mouse events
